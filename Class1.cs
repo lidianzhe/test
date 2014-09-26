@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary3
 {
-    public class Class1
+    public class TestClass
     {
+        public TestClass()
+        {
+
+        }
     }
 }
